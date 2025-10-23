@@ -1,6 +1,6 @@
 # ProofChain Admin Dashboard
 
-Admin interface for managing institutions on the **[ProofChain](https://github.com/Raaffs/proofchain-main)  platform.  
+Admin interface for managing institutions on the [ProofChain](https://github.com/Raaffs/proofchain-main)  platform.  
 Allows contract owners to approve or reject registered institutions and maintain the mapping of document types to verifying institutions.
 
 ---
