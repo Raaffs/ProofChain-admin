@@ -13,5 +13,5 @@ Allows contract owners to approve or reject registered institutions and maintain
 ---
 
 ## 🔗 Main Project
-[ProofChain Main Repository](https://github.com/YourUsername/proofchain-main)  
+[ProofChain Main Repository](https://github.com/Raaffs/proofchain)  
 ---
